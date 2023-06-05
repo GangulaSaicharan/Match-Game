@@ -1,0 +1,45 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #2c0e3a;
+  padding: 10px;
+  height: 10vh;
+}
+
+.website-logo {
+  margin-left: 30px;
+  width: 115px;
+}
+.score-and-time-container {
+  display: flex;
+  margin-right: 30px;
+}
+.nav-list-item {
+  display: flex;
+  align-items: center;
+}
+
+.score-text {
+  color: #ffffff;
+  font-weight: 400;
+  font-family: 'Roboto';
+  margin-right: 5px;
+}
+.score {
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #fec653;
+}
+
+.time {
+  color: #fec653;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+
+.timer {
+  width: 20px;
+  padding-bottom: 4px;
+  margin-right: 5px;
+}

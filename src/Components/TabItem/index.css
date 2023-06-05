@@ -1,0 +1,16 @@
+li {
+  list-style-type: none;
+}
+.tab-list-item {
+  margin: 20px;
+  font-size: 20px;
+}
+.tab-button {
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  font-size: 22px;
+  font-weight: 300;
+  cursor: pointer;
+}
